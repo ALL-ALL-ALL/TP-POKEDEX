@@ -1,1 +1,1 @@
-<img width="1440" alt="SCR-20240323-bzko" src="https://github.com/ALL-ALL-ALL/TP-POKEDEX/assets/157831738/3268145d-4775-4d23-9a9c-47b6cc524685">
+<img width="1440" alt="SCR-20240323-bzxk" src="https://github.com/ALL-ALL-ALL/TP-POKEDEX/assets/157831738/9ffe9a04-bae3-4ca0-8789-23de59b1a7f2">
