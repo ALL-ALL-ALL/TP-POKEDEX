@@ -1,7 +1,7 @@
 # TP-POKEDEX
 
 ## À propos de ce projet
-Ce projet a été réalisé comme exercice pratique de développement web, axé sur la consommation d'API et la création d'une interface dynamique inspirée de l'univers Pokémon.
+Ce projet a été réalisé comme exercice pratique de développement web, axé sur la consommation d'API et la création d'une interface inspirée de l'univers Pokémon.
 
 TP-POKEDEX est une application web qui reproduit les 'fonctionnalités' d'un Pokédex, permettant aux utilisateurs de parcourir des informations sur différents Pokémon. Ce projet m'a permis de mettre en pratique plusieurs concepts importants :
 
