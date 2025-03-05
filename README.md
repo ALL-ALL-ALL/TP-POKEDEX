@@ -6,7 +6,7 @@ Ce projet a été réalisé comme exercice pratique de développement web, axé 
 TP-POKEDEX est une application web qui reproduit les 'fonctionnalités' d'un Pokédex, permettant aux utilisateurs de parcourir des informations sur différents Pokémon. Ce projet m'a permis de mettre en pratique plusieurs concepts importants :
 
 - Intégration de l'API PokéAPI pour récupérer des données détaillées
-- Création d'une interface responsive avec affichage en grille
+- Création d'une interface avec affichage en grille
 
 L'objectif principal était de développer mes compétences en manipulation d'API RESTful et en construction d'interfaces utilisateur.
 
